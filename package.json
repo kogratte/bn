@@ -1,0 +1,28 @@
+{
+  "name": "naval-battle",
+  "version": "1.0.0",
+  "description": "Simple naval battle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogratte/bn.git"
+  },
+  "keywords": [
+    "Game",
+    "Test",
+    "Project",
+    "GitPod",
+    "POC",
+    "Alexa",
+    "Skill"
+  ],
+  "author": "Nicolas ISSALENE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kogratte/bn/issues"
+  },
+  "homepage": "https://github.com/kogratte/bn#readme"
+}
