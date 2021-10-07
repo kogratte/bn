@@ -9,7 +9,7 @@ vscode:
     - dbaeumer.vscode-eslint
     - github.vscode-pull-request-github
     - eamodio.gitlens
-    - ryanluker.vscode-coverage-gutters
+    - orta.vscode-jest
 
 github:
   prebuilds:
