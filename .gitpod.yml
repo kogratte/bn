@@ -1,0 +1,4 @@
+# List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
+tasks:
+  - init: echo 'Install npm packages and run tests (watch mode)' # runs during prebuild
+    command: npm install && npm run test -- --watch
